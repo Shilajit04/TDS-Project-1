@@ -1,2 +1,3 @@
-# TDS-Project-1
-TDS Project 1 for IITM DS course (diploma)
+- Data was scraped from the GitHub API by filtering users in Basel,Switzerland with over 10 followers and fetching their most recent repositories.
+- Majority of the repositories from Basel are written in JavaScript but surprisingly PHP is seen in many repositories, mainly newer users. Also, Purescript happens to be the language with highest average stars per repository. Surprising!!!
+- Developers in Basel should focus on collaboration in JavaScript-based and Python-based projects to leverage the local expertise and community.
